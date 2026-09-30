@@ -9,8 +9,8 @@ Aplicación móvil desarrollada con React Native y Expo para el Módulo 5
 
 ## Enlaces
 
-- **Video demostrativo:** https://enlace-al-video-publico
-- **Descargar APK:** https://enlace-de-descarga-del-apk
+- **Video demostrativo:** https://youtube.com/shorts/cZSJwC2eSKk?si=SA9kAQOfMIgInGgY
+- **Descargar APK:** 
 
 ## Descripción
 
